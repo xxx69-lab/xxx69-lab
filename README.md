@@ -37,15 +37,6 @@
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxx69-lab&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=007ACC&text_color=000000" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxx69-lab&theme=transparent&hide_border=true&ring=007ACC&fire=007ACC&currStreakLabel=000000" height="160" alt="GitHub Streak"/>
-</p>
-
----
-
 ### Current Work
 
 - Developing **Discord bots** and **automation tools** in Python.  

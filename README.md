@@ -56,7 +56,7 @@
 
 ### Contact
 
-<p align="center">
+<p>
   <a href="https://discord.com/users/69xxxxxx69">
     <img src="https://img.shields.io/badge/Discord-69xxxxxx69-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>

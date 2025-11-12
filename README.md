@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=flat-square&logo=linux" />
   <img src="https://img.shields.io/badge/Tools-C++%2C%20Python%2C%20Bash-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Platform-Linux-lightgrey?style=flat-square&logo=ubuntu" />
 </p>
 
 </div>

@@ -63,7 +63,4 @@ C++ | Python | Cybersecurity | Discord Development
 ## Contact
 
 <p align="center">
-  <a href="https://discord.com/users/69xxxxxx69" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Discord-69xxxxxx69-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+  <a href="https://discord.com/users/69xxxxxx69" style="text-decoration

@@ -1,7 +1,3 @@
-<!-- Hide GitHub default title -->
-<a name="top"></a>
-<div style="margin-top: -60px;"></div>
-
 <!-- Profile README for xxx69-lab -->
 <div align="center">
 
@@ -13,7 +9,7 @@ xxx69-lab
 C++ | Python | Cybersecurity | Discord Development
 </p>
 
-<hr style="border: 0; height: 1px; background: #ccc; width:80%;">
+<hr style="border: 0; height: 1px; background: #ccc;">
 
 </div>
 
@@ -63,4 +59,7 @@ C++ | Python | Cybersecurity | Discord Development
 ## Contact
 
 <p align="center">
-  <a href="https://discord.com/users/69xxxxxx69" style="text-decoration
+  <a href="https://discord.com/users/69xxxxxx69" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Discord-69xxxxxx69-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>

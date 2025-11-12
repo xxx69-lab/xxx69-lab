@@ -1,21 +1,21 @@
 <!-- Profile README for xxx69-lab -->
 <div align="center">
 
-<h1 style="font-family:'Courier New', monospace; font-weight:700; color:#000000;">
-xxx69-lab
-</h1>
+<!-- 🧠 Subheader with animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Python+%7C+Cybersecurity+%7C+Discord+Development" alt="Typing SVG" />
 
-<p style="font-family:'Courier New', monospace; font-size:18px; color:#555;">
-C++ | Python | Cybersecurity | Discord Development
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Tools-C++%2C%20Python%2C%20Bash-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Linux-lightgrey?style=flat-square&logo=ubuntu" />
 </p>
-
-<hr style="border: 0; height: 1px; background: #ccc;">
 
 </div>
 
 ---
 
-## About Me
+### About Me
 
 - Software developer specialized in **C++** and **Python**.  
 - Experienced in **cybersecurity**, **defensive programming**, and **automation**.  
@@ -25,7 +25,7 @@ C++ | Python | Cybersecurity | Discord Development
 
 ---
 
-## Languages and Tools
+### Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
@@ -39,7 +39,7 @@ C++ | Python | Cybersecurity | Discord Development
 
 ---
 
-## GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xxx69-lab&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=007ACC&text_color=000000" height="160" alt="GitHub Stats"/>
@@ -48,18 +48,18 @@ C++ | Python | Cybersecurity | Discord Development
 
 ---
 
-## Current Work
+### Current Work
 
 - Developing **Discord bots** and **automation tools** in Python.  
 - Researching **reverse engineering** and **secure software practices**.  
-- Improving performance and code quality across personal projects.
+- Improving performance and code quality across personal projects.  
 
 ---
 
-## Contact
+### Contact
 
 <p align="center">
-  <a href="https://discord.com/users/69xxxxxx69" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Discord-69xxxxxx69-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.com/users/69xxxxxx69">
+    <img src="https://img.shields.io/badge/Discord-69xxxxxx69-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>

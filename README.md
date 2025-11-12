@@ -1,48 +1,68 @@
 <!-- Profile README for xxx69-lab -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Welcome+to+xxx69-lab's+GitHub;C%2B%2B+%7C+Python+%7C+Cybersecurity" alt="Typing SVG" />
+<!-- ✨ Header title -->
+<h1>👨‍💻 xxx69-lab</h1>
+
+<!-- 🧠 Subheader with animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Python+%7C+Cybersecurity+%7C+Discord+Development" alt="Typing SVG" />
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Tools-C++%2C%20Python%2C%20Bash-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Linux-lightgrey?style=flat-square&logo=ubuntu" />
+</p>
 
 </div>
 
 ---
 
-### About Me
+### 🧩 About Me
 
 - Software developer specialized in **C++** and **Python**.  
-- Focused on **system-level programming**, **automation**, and **performance optimization**.  
-- Interested in **cybersecurity**, **ethical hacking**, and **defensive programming**.  
-- Experienced with **Linux environments**, scripting, and **security-focused workflows**.  
-- Constantly improving technical depth and learning new tools.
+- Experienced in **cybersecurity**, **defensive programming**, and **automation**.  
+- Developer of **Discord bots** and small automation systems.  
+- Proficient in **Linux environments**, **Bash scripting**, and **performance-oriented design**.  
+- Focused on creating **clean**, **secure**, and **efficient** software.
 
 ---
 
-### Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-</p>
-
----
-
-### GitHub Statistics
+### 🧠 Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxx69-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxx69-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 </p>
 
 ---
 
-### Current Focus
+### 📈 GitHub Statistics
 
-- Developing tools and scripts for **automation** and **security analysis**.  
-- Expanding knowledge in **reverse engineering** and **system security**.  
-- Building efficient, maintainable, and secure software.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xxx69-lab&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=007ACC&text_color=000000" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxx69-lab&theme=transparent&hide_border=true&ring=007ACC&fire=007ACC&currStreakLabel=000000" height="160" alt="GitHub Streak"/>
+</p>
 
 ---
+
+### 🚀 Current Work
+
+- Developing **Discord bots** and **automation tools** in Python.  
+- Researching **reverse engineering** and **secure software practices**.  
+- Improving performance and code quality across personal projects.  
+
+---
+
+### 💬 Contact
+
+<p align="center">
+  <a href="https://discord.com/users/69xxxxxx69">
+    <img src="https://img.shields.io/badge/Discord-69xxxxxx69-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>

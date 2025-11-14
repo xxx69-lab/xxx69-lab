@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- 🧠 Subheader with animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=WELCOME%20TO%20xxx69-lab;C%2B%2B%20%7C%20Python%20%7C%20Cybersecurity%20%7C%20DS%20DEV" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1F7A1F&center=true&vCenter=true&width=500&lines=WELCOME%20TO%20xxx69-lab;C%2B%2B%20%7C%20Python%20%7C%20Cybersecurity%20%7C%20DS%20DEV" alt="Typing SVG" />
 
 <!-- Badges -->
 <p align="center">
